@@ -1,0 +1,11 @@
+# Generated test artifacts
+sample_file
+5GB_sample_file
+performance_data.csv
+performance_log.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
